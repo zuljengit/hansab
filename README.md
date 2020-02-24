@@ -12,4 +12,4 @@
 
 <h2>Additional info</h2>
 
-Database structure and data is loaded from <strong>data.sql</strong> file located in task/src/main/recources
+Database structure and data is loaded from <strong>data.sql</strong> file located in <strong>task/src/main/recources</strong>
