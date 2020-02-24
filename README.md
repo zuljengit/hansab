@@ -1,6 +1,6 @@
 # Project information
 
-<strong>Tech Stack: Maven, Spring Boot 2.2.4, Angular 9, H2(DBMS)</strong>
+<strong>Tech Stack: Apache Maven, Spring Boot 2.2.4, Angular 9, H2(DBMS)</strong>
 
 <h2>Project setup</h2>
 
