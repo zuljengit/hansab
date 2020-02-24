@@ -1,6 +1,8 @@
 package com.julien.hansab.domain;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,6 +15,8 @@ public class User {
     @Column(name = "id")
     private Long id;
 
+    @NotNull
+    @Size(max = 50)
     @Column(name = "name")
     private String name;
 

@@ -5,11 +5,8 @@ import java.io.Serializable;
 public class CarDTO implements Serializable {
 
     private Long id;
-
     private String make;
-
     private String model;
-
     private String numberplate;
 
     public Long getId() {
@@ -43,4 +40,5 @@ public class CarDTO implements Serializable {
     public void setNumberplate(String numberplate) {
         this.numberplate = numberplate;
     }
+
 }

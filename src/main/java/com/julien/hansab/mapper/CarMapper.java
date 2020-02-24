@@ -12,6 +12,6 @@ public interface CarMapper {
 
     CarMapper INSTANCE = Mappers.getMapper(CarMapper.class);
 
-    CarDTO carToCarDto(Car Car);
-    List<CarDTO> carsToCarsDto(List<Car> Cars);
+    CarDTO toCarDto(Car Car);
+    List<CarDTO> toCarsDto(List<Car> Cars);
 }

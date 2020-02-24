@@ -5,7 +5,6 @@ import java.io.Serializable;
 public class UserDTO implements Serializable {
 
     private Long id;
-
     private String name;
 
     public Long getId() {
@@ -23,4 +22,5 @@ public class UserDTO implements Serializable {
     public void setName(String name) {
         this.name = name;
     }
+
 }
