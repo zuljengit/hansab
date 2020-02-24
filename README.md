@@ -6,8 +6,8 @@
 
 1. Run <strong>mvn clean install</strong> command in project's root directory.
 2. Run <strong>mvn spring-boot:run</strong> command to start the back-end.
-3. Run <strong>npm install</strong> command in task/src/webapp directory to install node modules.
-4. Run <strong>ng serve</strong> command to start the front-end.
+3. Run <strong>npm install</strong> command in <strong>hansab/src/webapp</strong> directory to install node modules.
+4. Run <strong>ng serve</strong> command in <strong>hansab/src/webapp</strong> directory to start the front-end.
 5. Open http://localhost:4200 in a web browser.
 
 <h2>Additional info</h2>
