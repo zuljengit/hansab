@@ -4,7 +4,7 @@
 
 <h2>Project setup</h2>
 
-1. Run <strong>mvn clean install</strong> command in project's root directory.
+1. Run <strong>mvn clean install</strong> command.
 2. Run <strong>mvn spring-boot:run</strong> or <strong>java -jar target/hansab-0.0.1-SNAPSHOT.jar</strong> command to start the back-end.
 3. Run <strong>npm install</strong> command in <strong>hansab/src/webapp</strong> directory to install node modules.
 4. Run <strong>ng serve</strong> command in <strong>hansab/src/webapp</strong> directory to start the front-end.
